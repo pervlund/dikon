@@ -1,0 +1,1 @@
+﻿positionForPages[4]={page:4,positions:[{word:"3",left:0.880081,top:0.940958,width:0.010242,height:0.016422},{word:"Ericsson Diax",left:0.109677,top:0.195887,width:0.487826,height:0.062221},{word:"1978 - 2010 ",left:0.109677,top:0.252568,width:0.204475,height:0.030480},{word:"Af ClAus lindholt hAnsen",left:0.109677,top:0.300917,width:0.291304,height:0.019050}]};
